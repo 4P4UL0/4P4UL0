@@ -11,7 +11,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me sigam nas redes abaixo!
+  ### Para mais conteúdos de programação me sigam nas redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/p4ul07i/" target="a_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="a_blank"></a>
