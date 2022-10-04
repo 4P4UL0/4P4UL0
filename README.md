@@ -21,7 +21,7 @@
  
   ### Para mais conteúdos de programação me sigam nas redes abaixo!
  
-<div> 
+<div style="display: inline_block"> 
   <a href="https://www.instagram.com/p4ul07i/" target="a_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="a_blank"></a><br>
  
   <a href = "mailto:antoniospaul6@gmail.com" target="a_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="a_blank"></a><br>
